@@ -3,7 +3,7 @@ title: 该如何去生活？
 layout: post
 author: Avon
 tags:
-    -生活
+    - 生活
 ---
 今天去参加了Amy的追悼会，挺有感触的！
 

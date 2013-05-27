@@ -1,6 +1,6 @@
 ---
 title: A&A
-layout: pout
+layout: post
 tags:
     - Avon
     - Along
