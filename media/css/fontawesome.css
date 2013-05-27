@@ -268,9 +268,17 @@ ul.icons li [class*=" icon-"] {
   .btn .icon-spin.icon-large {
     height: .75em;
   }
-}.icon-user:before		{ content: "\f021"; }
-.icon-film:before		{ content: "\f022"; }
-.icon-tags:before		{ content: "\f023"; }
-.icon-rss:before		{ content: "\f024"; }
-.icon-link:before		{ content: "\f025"; }
-.icon-list-ul:before		{ content: "\f026"; }
+}.icon-envelope:before		{ content: "\f021"; }
+.icon-user:before		{ content: "\f022"; }
+.icon-film:before		{ content: "\f023"; }
+.icon-home:before		{ content: "\f024"; }
+.icon-download-alt:before		{ content: "\f025"; }
+.icon-tag:before		{ content: "\f026"; }
+.icon-tags:before		{ content: "\f027"; }
+.icon-picture:before		{ content: "\f028"; }
+.icon-arrow-left:before		{ content: "\f029"; }
+.icon-arrow-right:before		{ content: "\f02a"; }
+.icon-rss:before		{ content: "\f02b"; }
+.icon-link:before		{ content: "\f02c"; }
+.icon-paper-clip:before		{ content: "\f02d"; }
+.icon-list-ul:before		{ content: "\f02e"; }
